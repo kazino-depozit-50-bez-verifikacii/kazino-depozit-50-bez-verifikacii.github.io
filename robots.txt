@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-depozit-50-bez-verifikacii.github.io
+Sitemap: https://kazino-depozit-50-bez-verifikacii.github.io/sitemap.xml
